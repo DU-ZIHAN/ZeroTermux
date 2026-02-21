@@ -14,9 +14,10 @@ ZeroTermux是基于Termux开发的终端模拟器，具备完整的shell访问�
 
 4.本仓库提供什么？(〜￣▽￣)〜
 README(你们现在看到的文章):
-介绍ZeroTermux，你们也可以在此文章内复制一些命令，去你的终端里执行∽
-Release(README底部显示
-用来提供下载ZeroTermux
+介绍ZeroTermux，正式的避坑指南！
+下载请到我的另一个仓库TermuxRedis
+地址:
+https://github.com/du-zihan/TermuxRedis的Release界面
 
 5.正式避坑指南  ──重点
 
