@@ -1,5 +1,6 @@
-7# ZeroTermux
+# ZeroTermux
 这里提供ZeroTermux相关教程，零折腾，有手机有手有ZeroTermux即可
+
 
 1.ZeroTermux是什么?
 ZeroTermux是基于Termux开发的终端模拟器，具备完整的shell访问能力，完整的包管理系统，是Android命令行的首选
