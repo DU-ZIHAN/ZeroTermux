@@ -1,4 +1,4 @@
-# ZeroTermux
+7# ZeroTermux
 这里提供ZeroTermux相关教程，零折腾，有手机有手有ZeroTermux即可
 
 1.ZeroTermux是什么?
@@ -28,6 +28,7 @@ Release(README底部显示
 - 系统版本过低，不兼容当前 ZeroTermux
 ​
 - 打开了手机自带的“纯净模式”“风险应用拦截”，关掉再装
+
 ​
 2. 打开 ZeroTermux 一直卡在初始化 / 黑屏
 ​
@@ -36,6 +37,7 @@ Release(README底部显示
 - 存储空间不足，清内存
 ​
 - 部分手机需要允许“后台运行”“自启动”
+
 ​
 3. 刚进去就报错、无法执行任何命令
 ​
@@ -49,15 +51,18 @@ Release(README底部显示
  
 1. cd /sdcard 找不到、访问不了手机文件
 ​
+
 - 必须手动给 ZeroTermux 开存储权限
 ​
 - 权限没开，任何访问手机文件的命令都无效
+
 ​
 2. 复制文件时报错 Permission denied
 ​
 - 路径不对，不要乱抄路径
 ​
 - 不要直接复制到系统目录，先复制到  ~/  主目录
+
 ​
 3. 解压文件失败、乱码
 ​
